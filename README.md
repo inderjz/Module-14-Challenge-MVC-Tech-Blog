@@ -16,14 +16,15 @@
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
-
-Our project is a Car Inventory. This project will help car enthusiasts add their cars on the website for others to view. I created this project because I am a car lover by myself and I want others to share their cars with eachother and see how much people like their car. This application can be used by anyone who just want to keep a car inventory of rare cars for sale..
+   
+  My Project is a MVC-Tech-Blog where developers can publish their blog posts and comment on other developers posts as well.
 
   ## [LandingPage](#table-of-contents)
 
-  When you deploy the application you will have title of the project on the top and two navigation links of Home or Login, and when you scroll under there will be list of featured cars under there.
+  When you deploy the application you will have couple of options like Homepage, Login and under the header there will be post created by other developers for you to view.
   
- <img width="1321" alt="Screenshot 2023-01-09 at 5 26 56 PM" src="https://user-images.githubusercontent.com/112728880/211441039-66eecc09-83ce-4414-9ab7-f49bf2344d90.png">
+ <img width="1323" alt="Screenshot 2023-01-17 at 8 33 50 PM" src="https://user-images.githubusercontent.com/112728880/213084811-aa97cdeb-3fea-4d46-a7c4-aa656dc30d27.png">
+
 
 
   ## [Usage](#table-of-contents)
