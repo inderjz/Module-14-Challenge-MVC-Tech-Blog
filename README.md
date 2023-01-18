@@ -29,16 +29,19 @@
 
   ## [Usage](#table-of-contents)
 
-  If it is your first time using the website you will need to click on the Login button and then scroll down and click the Sign up button and then fill out the required information for you to create your account. If you already been to the website before and have an account just simply sign in. After, you have created your account successfully click on the Inventory tab and press the Add button to add your car and if you have alrady cars added you will be able to see them under it. 
-  
+  If it is your first time using the website you will need to click on the Login button and click the Sign up button and then fill out the required information for you to create your account. If you don't have Twitter or an GitHub account just write N/A in those boxes. If you already been to the website before and have an account just simply sign in. After, you have created or signed into your account successfully click on the Dashboard to see your posts. If you don't have any posts click on the green create post button. Fill out the title and content and click create post. You could also click on the edit button to edit your post. To add a comment on a post click where it shows the number of comments and enter the comment you want to make. 
  
-  <img width="510" alt="Screenshot 2023-01-09 at 5 31 17 PM" src="https://user-images.githubusercontent.com/112728880/211441848-6c82d47f-5b2a-4c12-84f0-b6b7d6683939.png">
+  <img width="1327" alt="Screenshot 2023-01-17 at 8 48 55 PM" src="https://user-images.githubusercontent.com/112728880/213086791-b3acbb1a-a84e-4aa9-9266-a1128a93f306.png">
 
+<img width="1329" alt="Screenshot 2023-01-17 at 8 49 03 PM" src="https://user-images.githubusercontent.com/112728880/213086812-030bbf15-30e7-4bcf-9da3-554b5e2c4bb8.png">
 
-  <img width="756" alt="Screenshot 2023-01-09 at 5 32 36 PM" src="https://user-images.githubusercontent.com/112728880/211441872-969e4233-2aea-4e91-8349-3a3cf05f1515.png">
+<img width="1328" alt="Screenshot 2023-01-17 at 8 45 43 PM" src="https://user-images.githubusercontent.com/112728880/213086855-d69e3174-a5d4-4cda-9a1c-9b6309bc1cdd.png">
 
+<img width="1324" alt="Screenshot 2023-01-17 at 8 45 57 PM" src="https://user-images.githubusercontent.com/112728880/213086874-dc3b6079-7d95-46e6-898a-5f049a737219.png">
 
-<img width="754" alt="Screenshot 2023-01-09 at 5 34 34 PM" src="https://user-images.githubusercontent.com/112728880/211441887-552b602b-712b-4a23-b06f-152007f803f3.png">
+<img width="1325" alt="Screenshot 2023-01-17 at 8 47 18 PM" src="https://user-images.githubusercontent.com/112728880/213086898-ee39f020-4d7a-4c56-9ddb-db2e4ba76c6d.png">
+
+<img width="1325" alt="Screenshot 2023-01-17 at 8 48 00 PM" src="https://user-images.githubusercontent.com/112728880/213086913-e715c9fb-c73f-4ec3-a1f9-f4a58a549a93.png">
 
 
   ## [License](#table-of-contents)
